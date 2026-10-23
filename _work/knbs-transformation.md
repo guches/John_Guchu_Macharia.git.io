@@ -1,8 +1,8 @@
 ---
 slug: knbs-transformation
-title: KNBS × ONS Partnership & Digital Transformation
-summary: Programme leadership, digital public services and AI capacity building across Kenya and Somalia.
-role: Programme Partnership Manager
+title:ONS Programme Partnership Manager -  KNBS(Somalia National Bureau of Statistics) and SNBS(Somalia National Bureau of Statistics)
+summary: Programme & Project Management Leadership, Digital Public Services, Capacity Building and AI capacity building across Kenya and Somalia.
+role: ONS Programme Partnership Manager
 period: 2022–2026
 sector: International development and statistics
 themes:
